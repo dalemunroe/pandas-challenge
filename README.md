@@ -9,4 +9,4 @@ After reviewing the data the following observations can be made;
 3.  Schools with a higher per student spend had the lowest % overall passing, the two lower ranges had the highest % overall passing.
 
 
-* Refer to validation for calculation method.  I have used the master data table to do all the % calculations.  There is a slight variance between this method and if carry out a Groupby on schools then use this table to take mean calculations again (ie average on a avarage).  
+* Refer to validation.xlxs for calculation method.  I have used the master data table to do all the % calculations.  There is a slight variance between this method and if carry out a Groupby on schools then use this table to take mean calculations again (ie average on a avarage).  
